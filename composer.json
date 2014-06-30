@@ -16,5 +16,6 @@
     "require": {
         "php": ">=5.4",
         "james481/micro-cms": "dev-master"
-    }
+    },
+    "minimum-stability": "dev"
 }
