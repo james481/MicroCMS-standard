@@ -1,21 +1,19 @@
 {
     "name": "james481/micro-cms-standard",
+    "type": "library",
     "description": "Micro cms / static site MVC framework standard application",
+    "keywords": ["framework", "CMS"],
+    "homepage": "https://github.com/james481/MicroCMS",
+    "license": "MIT",
     "authors": [
         {
             "name": "James C Watts",
             "email": "jamescwatts@gmail.com"
         }
     ],
-    "repositories": [
-        {
-            "type": "vcs",
-            "url": "https://github.com/james481/MicroCMS"
-        }
-    ],
     "require": {
         "php": ">=5.4",
-        "james481/micro-cms": "dev-master"
+        "james481/micro-cms": "v0.1.0"
     },
     "minimum-stability": "dev"
 }
