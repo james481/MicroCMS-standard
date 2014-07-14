@@ -1,6 +1,6 @@
 {
     "name": "james481/micro-cms-standard",
-    "type": "library",
+    "type": "project",
     "description": "Micro cms / static site MVC framework standard application",
     "keywords": ["framework", "CMS"],
     "homepage": "https://github.com/james481/MicroCMS",
